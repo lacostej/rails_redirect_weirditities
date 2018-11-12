@@ -1,0 +1,2 @@
+module SthgHelper
+end
